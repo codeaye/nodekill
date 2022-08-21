@@ -1,6 +1,9 @@
 [package]
 name = "nodekill"
-version = "0.1.0"
+description = "Allows you to get rid of node_modules, fast!"
+lisence = "MIT"
+repository = "https://github.com/codeaye/nodekill"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
